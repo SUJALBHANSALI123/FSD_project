@@ -1,3 +1,0 @@
-# FSD_project
-
-hello
